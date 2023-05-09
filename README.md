@@ -22,15 +22,13 @@
 
 <p align="left">My name is Alireza NIKKHAH and I'm a passionate and curious ( Junior ) Full-stack developer.<br>I love learning new things in my daily life, In my opinion living without learning is pointless, what's your opinion about it?</p>
 
-<br clear="both">
-
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ReactJS, React native, Flutter, Laravel, TS.<br>🎯 Goals : Fullstack software engineer and one day my own company<br>🎲 Fun fact : I'm an ambidextrous ( I write with left hand and I play football with right foot , etc. )</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ReactJS, React native, Flutter, Laravel, TS.<br>🎯 Goals : Fullstack software engineer and one day my own company.<br>🎲 Fun fact : I'm an ambidextrous ( I write with left hand and I play football with right foot , etc. )</p>
 
 ###
 
