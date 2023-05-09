@@ -1,6 +1,5 @@
 <br clear="both">
 
-![Snake animation](https://github.com/alirezanikkhah1375/alirezanikkhah1375/blob/output/github-contribution-grid-snake.svg)
 <img src="https://raw.githubusercontent.com/alirezanikkhah1375/alirezanikkhah1375/output/snake.svg" alt="Snake animation" />
 
 ###
