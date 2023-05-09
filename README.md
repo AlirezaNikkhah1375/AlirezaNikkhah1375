@@ -22,6 +22,8 @@
 
 <p align="left">My name is Alireza NIKKHAH and I'm a passionate and curious ( Junior ) Full-stack developer.<br>I love learning new things in my daily life, In my opinion living without learning is pointless, what's your opinion about it?</p>
 
+<br clear="both">
+
 ###
 
 <h2 align="left">About me</h2>
